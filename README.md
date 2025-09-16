@@ -50,10 +50,12 @@ The synthetic dataset includes the following fields:
 git clone https://github.com/Haritha2114/Student_Dashboard_ML.git
 cd Student_Dashboard_ML
 
-### 2. Python environment (analysis + ML)
+## 2. Python environment (analysis + ML)
+
 ```bash
 # Optionally create a virtual environment
 python -m venv venv
+
 # Activate environment
 # Windows
 venv\Scripts\activate
@@ -62,6 +64,7 @@ source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
 
 ### 3. Next.js dashboard
 ```bash
@@ -79,6 +82,9 @@ npx next dev -p 3001
 
 Open your browser at http://localhost:3000
  (or your chosen port) to view the dashboard.
+
+---
+
 
 **⚡ Usage**
 
