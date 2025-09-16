@@ -80,7 +80,7 @@ npx next dev -p 3001
 Open your browser at http://localhost:3000
  (or your chosen port) to view the dashboard.
 
-⚡ Usage
+**⚡ Usage**
 
 Explore correlations and ML predictions in the Jupyter Notebook.
 
@@ -90,7 +90,7 @@ Search, sort, and filter students in the table.
 
 Gain insights from charts and persona analysis.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Python: Pandas, NumPy, scikit-learn, Matplotlib/Seaborn
 
